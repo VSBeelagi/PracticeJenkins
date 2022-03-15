@@ -12,7 +12,9 @@ public class CreateContactTest {
 	@Test
 	public void createContactTest2()
 	{
+		
 		System.out.println("Contacts Updated");
+		
 	}
 
 }

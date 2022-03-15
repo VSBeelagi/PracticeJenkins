@@ -3,7 +3,7 @@
 <suite name="Regression Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="/AutoDesk-Practice-30/src/test/java/Contacts/CreateContactTest.java"/>
+      <class name="Contacts.CreateContactTest"/>
          </classes>
   </test> <!-- Test -->
 </suite> <!-- Regression Suite -->
