@@ -12,6 +12,7 @@ public class ReadDataTest {
 		System.out.println(BROWSER);
 		
 		String URL= System.getProperty("url");
+		
 		System.out.println(URL);
 		
 			
