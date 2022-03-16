@@ -5,6 +5,7 @@
     <classes>
       <class name="Org.CreateOrgTest"/>
       <class name="AutoDesk.CreateContactTest"/>
+      <class name="AutoDesk.ReadDataTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Smoke Suite -->
